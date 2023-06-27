@@ -11,7 +11,6 @@ html,body {
   height: 100%;
 }
 
-
 h1,h2,h3,h4,h5,h6 {
   font-style: normal;
   font-weight: 300;
@@ -59,9 +58,9 @@ strong {
 
 p {
     color: #888;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 300;
-    line-height: 28px;
+    line-height: 20px;
     letter-spacing: 0.2px;
 }
 
@@ -124,7 +123,7 @@ footer {
   background-size: cover !important;
   width: 100%;
   height: 100%;
-  min-height: 75vh;
+  min-height: 50vh;
   position: absolute;
   top: 0;
   right: 0;
@@ -200,7 +199,7 @@ html{
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/home-img01.jpeg') no-repeat;
+    background: url('../images/IMG_04.jpg') no-repeat;
 }
 
 #about .about-thumb,
