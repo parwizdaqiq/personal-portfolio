@@ -1,0 +1,17 @@
+{
+  "name": "Parwiz Daqiq — Full Stack & Mobile App Developer",
+  "short_name": "Parwiz Daqiq",
+  "description": "Official portfolio of Parwiz Daqiq, full stack software developer and mobile app developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d18",
+  "theme_color": "#090d18",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

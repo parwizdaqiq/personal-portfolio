@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parwiz-daqiq-portfolio.parwizdaqiq1.chatgpt.site/sitemap.xml

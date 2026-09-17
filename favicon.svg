@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Parwiz Daqiq">
+  <rect width="64" height="64" rx="8" fill="#090d18"/>
+  <path d="M14 47V17h13c8 0 13 4 13 11s-5 11-13 11h-6v8h-7Zm7-14h6c4 0 6-2 6-5s-2-5-6-5h-6v10Z" fill="#f7f9fd"/>
+  <path d="M41 47V30h8c7 0 11 3 11 8.5S56 47 49 47h-8Zm6-6h2c3 0 5-1 5-2.5S52 36 49 36h-2v5Z" fill="#52c6f6"/>
+</svg>
