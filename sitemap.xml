@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://parwiz-daqiq-portfolio.parwizdaqiq1.chatgpt.site/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <loc>https://parwizdaqiq.github.io/personal-portfolio/</loc>
+    <lastmod>2026-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://parwiz-daqiq-portfolio.parwizdaqiq1.chatgpt.site/images/parwiz-cutout.png</image:loc>
+      <image:loc>https://parwizdaqiq.github.io/personal-portfolio/images/parwiz-cutout.png</image:loc>
       <image:title>Parwiz Daqiq — Full Stack and Mobile App Developer</image:title>
       <image:caption>Professional portrait of Parwiz Daqiq, a software engineer, full stack developer, and mobile app developer based in Afghanistan.</image:caption>
     </image:image>
